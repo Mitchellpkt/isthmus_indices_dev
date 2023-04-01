@@ -1,0 +1,5 @@
+jupyter
+isthmuslib==0.0.99
+matplotlib
+numpy
+scipy
